@@ -1,0 +1,2 @@
+(this["webpackJsonpmatx-react"]=this["webpackJsonpmatx-react"]||[]).push([[71],{899:function(t,e,n){"use strict";n.r(e);n(2);var a=n(793),c=n(1);e.default=function(){return Object(c.jsx)("div",{className:"center-container",children:Object(c.jsxs)("div",{style:{margin:"0px",padding:"20px"},children:[Object(c.jsx)("h1",{style:{marginTop:"0px",marginBottom:"10px",padding:"0px"},children:"Add Center"}),Object(c.jsx)(a.a,{})]})})}}}]);
+//# sourceMappingURL=71.8c3b4144.chunk.js.map

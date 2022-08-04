@@ -1,0 +1,2 @@
+(this["webpackJsonpmatx-react"]=this["webpackJsonpmatx-react"]||[]).push([[70],{898:function(t,e,c){"use strict";c.r(e);c(2);var r=c(1);e.default=function(){return Object(r.jsx)("div",{children:"AddUser"})}}}]);
+//# sourceMappingURL=70.ff950ca4.chunk.js.map

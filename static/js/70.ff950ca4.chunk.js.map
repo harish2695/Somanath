@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/views/addUser/AddUser.jsx"],"names":["AddUser"],"mappings":"iHAAA,uBAQeA,UANC,WACd,OACE","file":"static/js/70.ff950ca4.chunk.js","sourcesContent":["import React from 'react'\n\nconst AddUser = () => {\n  return (\n    <div>AddUser</div>\n  )\n}\n\nexport default AddUser"],"sourceRoot":""}

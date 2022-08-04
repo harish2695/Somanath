@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/app/views/center/CenterDetails.css"],"names":[],"mappings":"AAAA,wBACI,YAAa,CACb,oBAAqB,CACrB,YACJ,CAEA,2BACI,cACJ","file":"49.d2ebfeba.chunk.css","sourcesContent":[".user-details-container{\n    padding: 10px;\n    align-items: baseline;\n    display: grid;\n}\n\n.user-details-container h2{\n    cursor: pointer;\n}"]}
